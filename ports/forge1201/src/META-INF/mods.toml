@@ -1,0 +1,38 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="relics_emc"
+version="0.1.0"
+displayName="EMC for Relics"
+authors="KURONAMI"
+description="Same base EMC for trained Relics; ProjectE reproduction returns a fresh default-state relic."
+
+[[dependencies.relics_emc]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.relics_emc]]
+modId="forge"
+mandatory=true
+versionRange="[47.0.47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.relics_emc]]
+modId="projecte"
+mandatory=true
+versionRange="[1.0.1]"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.relics_emc]]
+modId="relics"
+mandatory=true
+versionRange="[0.8.0.13]"
+ordering="AFTER"
+side="BOTH"

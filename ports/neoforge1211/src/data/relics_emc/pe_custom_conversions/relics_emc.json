@@ -1,0 +1,106 @@
+{
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "id": "relics:leafy_mantle"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:springy_boot"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:kinetic_belt"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "relics:reflective_necklace"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:jellyfish_necklace"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:midnight_mantle"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "relics:roller_skate"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:chorus_staff"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "id": "relics:clot_of_time"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "relics:piglin_mask"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "relics:chef_hat"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "relics:cut_glass_boot"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 4096,
+        "id": "relics:rider_flute"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "id": "relics:ring_of_the_seven_deadly_sins"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:sphere_of_self_sacrifice"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "relics:hunting_belt"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 8192,
+        "id": "relics:experience_disperser"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:glitchy_mantle"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 32768,
+        "id": "relics:ghostly_mantle"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 16384,
+        "id": "relics:shield_of_retaliation"
+      }
+    ]
+  }
+}

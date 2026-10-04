@@ -1,0 +1,34 @@
+{
+  "values": {
+    "before": {
+      "relics:spatial_sign": 16384,
+      "relics:reflection_necklace": 8192,
+      "relics:magma_walker": 16384,
+      "relics:aqua_walker": 8192,
+      "relics:midnight_robe": 16384,
+      "relics:drowned_belt": 8192,
+      "relics:jellyfish_necklace": 16384,
+      "relics:hunter_belt": 8192,
+      "relics:rage_glove": 8192,
+      "relics:ice_skates": 4096,
+      "relics:bastion_ring": 16384,
+      "relics:chorus_inhibitor": 8192,
+      "relics:arrow_quiver": 8192,
+      "relics:space_dissector": 16384,
+      "relics:holy_locket": 16384,
+      "relics:enders_hand": 16384,
+      "relics:elytra_booster": 8192,
+      "relics:magic_mirror": 32768,
+      "relics:ice_breaker": 8192,
+      "relics:blazing_flask": 8192,
+      "relics:spore_sack": 8192,
+      "relics:shadow_glaive": 16384,
+      "relics:roller_skates": 4096,
+      "relics:infinity_ham": 8192,
+      "relics:leather_belt": 8192,
+      "relics:horse_flute": 8192,
+      "relics:wool_mitten": 8192,
+      "relics:amphibian_boot": 8192
+    }
+  }
+}
